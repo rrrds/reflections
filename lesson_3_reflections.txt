@@ -19,4 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	by shared folder on localnet or email with source files attached
-			 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	
+	when i want to make a pull request to others codebase with new feature\bug fix. Pull request allows easily collaborate with other developers
