@@ -14,4 +14,9 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-	get the state of remote repo for offline work. Preparing\merging changes before pulling to remote	 
+	get the state of remote repo for offline work. Preparing\merging changes before pulling to remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	by shared folder on localnet or email with source files attached
+			 
